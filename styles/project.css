@@ -47,6 +47,7 @@ article {
 article h3 {
     column-span: all; 
     border-top: 2px solid maroon;
+    padding-top: 2em; 
 }
 article img {
     float: left; 
