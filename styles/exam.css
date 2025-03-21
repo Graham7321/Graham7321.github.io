@@ -63,6 +63,7 @@ article img {
 }
 article h1 {
     color: blue;
+    padding-top: 0.5em;
 }
 article h2 {
     color: blue;
