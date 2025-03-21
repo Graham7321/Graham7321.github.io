@@ -43,7 +43,7 @@ body {
     background-repeat: repeat-y;
     background-attachment: fixed;
 }
-article hr {
+article br {
     margin-top: 0.5em;
 }
 article { 
