@@ -4,6 +4,11 @@
     float: left;
     margin-bottom: 1em;
 }
+#nav_menu ul li hr {
+    color: blue;
+    padding: 1em;
+    column-span: all;
+}
 #nav_menu ul li a {
     text-align: center;
     display: block;
