@@ -1,6 +1,9 @@
 #nav_menu {margin-bottom: 1em; }
 #nav_menu ul {list-style-type: none;}
-#nav_menu ul li {float: left;}
+#nav_menu ul li {
+    float: left;
+    margin-bottom: 1em;
+}
 #nav_menu ul li a {
     text-align: center;
     display: block;
@@ -16,9 +19,6 @@ border-right: 2px solid white;
 
 #nav_menu ul li a.lastitem { border-right: none; }
 #nav_menu ul li a.current { color: yellow; }
-#nav_menu hr {
-    color: blue;
-}
 
 body {
     width: 95%;
