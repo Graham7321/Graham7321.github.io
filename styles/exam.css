@@ -2,10 +2,6 @@ html {
     background-color: lightblue;
 }
 
-#nav_menu {
-    border-bottom: 3px solid blue;
-}
-
 #nav_menu ul {list-style-type: none;}
 #nav_menu ul li {
     float: left;
