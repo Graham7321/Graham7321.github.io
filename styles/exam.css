@@ -15,6 +15,9 @@ border-right: 2px solid white;
 
 #nav_menu ul li a.lastitem { border-right: none; }
 #nav_menu ul li a.current { color: yellow; }
+#nav_menu hr {
+    color: blue;
+}
 
 body {
     width: 95%;
@@ -33,6 +36,12 @@ article p::first-letter {
     font-size: 150%;
     font-weight: bold;
     font-style: italic;
+}
+header h1 {
+    color: blue;
+}
+header h2 {
+    color: blue;
 }
 aside {
     width: 20%;
