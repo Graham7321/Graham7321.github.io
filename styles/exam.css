@@ -19,10 +19,11 @@ border-right: 2px solid white;
 body {
     width: 95%;
     margin: 15px auto;
+    font-family: Arial, sans-serif;
+    background-image: url('background.jpg');
     background-position: right;
     background-repeat: repeat-y;
     background-attachment: fixed;
-
 }
 article {
     width: 75%;
@@ -36,8 +37,6 @@ article p::first-letter {
 aside {
     width: 20%;
     position: fixed;
-    list-style-type: ;
-
 }
 aside ol {
     list-style-type: upper-roman;
@@ -47,4 +46,10 @@ aside ul {
 }
 aside ul ul {
     list-style-type: none;
+}
+img {
+    float: left;
+}
+footer {
+    text-align: center;
 }
