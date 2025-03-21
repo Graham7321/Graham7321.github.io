@@ -70,3 +70,7 @@ img {
 footer {
     text-align: center;
 }
+footer hr {
+    margin-top: 1em;
+    color: blue;
+}
