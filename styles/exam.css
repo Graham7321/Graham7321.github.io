@@ -41,6 +41,9 @@ body {
     background-repeat: repeat-y;
     background-attachment: fixed;
 }
+article br {
+    padding: 1em;
+}
 article { 
     padding-top: 1em;
     border-top: 3px solid blue;
