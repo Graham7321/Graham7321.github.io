@@ -5,6 +5,7 @@ html {
 #nav_menu ul {list-style-type: none;}
 #nav_menu ul li {
     float: left;
+    margin-bottom: 1em;
 }
 #nav_menu ul li a {
     text-align: center;
