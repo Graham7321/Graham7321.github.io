@@ -84,3 +84,7 @@ footer {
     text-align: center;
     border-color: blue;
 }
+footer hr {
+    border: none;
+    border-top: 3px solid blue;
+}
