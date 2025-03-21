@@ -42,7 +42,7 @@ body {
     background-attachment: fixed;
 }
 article br {
-    padding: 1em;
+    padding: 0.25em;
 }
 article { 
     padding-top: 1em;
