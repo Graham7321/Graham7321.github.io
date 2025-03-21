@@ -37,11 +37,6 @@ body {
     background-repeat: repeat-y;
     background-attachment: fixed;
 }
-article hr {
-    width: 100%;
-    border: none;
-    border-top: 3 px solid blue;
-}
 article { 
     padding-top: 1em;
     border-top: 3px solid blue;
