@@ -45,10 +45,10 @@ article img {
     margin-right: 1em;
     margin-bottom: 1em;
 }
-header h1 {
+article h1 {
     color: blue;
 }
-header h2 {
+article h2 {
     color: blue;
 }
 aside {
