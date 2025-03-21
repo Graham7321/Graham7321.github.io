@@ -26,7 +26,7 @@ html {
     border-top: 3px solid blue; 
     width: 100%; 
     margin-top: 5em;
-    margin-bottom: 1em; 
+    margin-bottom: 2em; 
 }
 
 body {
@@ -44,7 +44,7 @@ body {
     background-attachment: fixed;
 }
 article hr {
-    margin: 0.5em;
+    margin-top: 0.5em;
 }
 article { 
     width: 75%;
