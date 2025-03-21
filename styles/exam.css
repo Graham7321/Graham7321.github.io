@@ -17,6 +17,7 @@ html {
     background-color: blue;
     color: white;
     font-weight: bold;
+    border-right: 1px solid white;
 }
 
 #nav_menu ul li a.current { color: yellow; }
