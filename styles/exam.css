@@ -32,7 +32,7 @@ body {
 article {
     width: 75%;
     column-count: 3;
-    column-rule: 10px dashed blue;
+    column-rule: 4px dashed blue;
     column-gap: 2em;
 }
 article p::first-letter {
