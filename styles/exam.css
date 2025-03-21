@@ -15,7 +15,7 @@ article {
 }
 aside {
     width: 20%;
-    background-attachment: fixed;
+    position: fixed;
     list-style-type: ;
-    
+
 }
