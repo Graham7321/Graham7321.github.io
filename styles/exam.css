@@ -5,7 +5,6 @@ html {
 #nav_menu ul {list-style-type: none;}
 #nav_menu ul li {
     float: left;
-    margin-bottom: 1em;
 }
 #nav_menu ul li a {
     text-align: center;
@@ -45,7 +44,6 @@ body {
     background-attachment: fixed;
 }
 article { 
-    margin-top: 25px;
     width: 75%;
     column-count: 3;
     column-rule: 4px dashed blue;
@@ -63,7 +61,6 @@ article img {
 }
 article h1 {
     color: blue;
-    margin-top: 20px;
 }
 article h2 {
     color: blue;
