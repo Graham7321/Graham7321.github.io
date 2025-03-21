@@ -22,9 +22,9 @@ html {
 
 #nav_menu ul li a.current { color: yellow; }
 
-.blue-border {
+.top-border {
     border: none;
-    border-top: 3px solid blue;
+    border-top: 3px solid blue; 
     width: 100%; 
     margin: 10px 0; 
 }
