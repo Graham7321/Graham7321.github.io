@@ -55,6 +55,7 @@ aside {
     width: 20%;
     position: fixed;
     float: right;
+    background-color: lightblue;
     padding: 1em;
 }
 aside ol {
