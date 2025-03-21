@@ -30,12 +30,19 @@ body {
 }
 article {
     width: 75%;
-    clear: both;
+    column-count: 2;
+    column-rule: 2px dotted blue;
+    column-gap: 2em;
 }
 article p::first-letter {
     font-size: 150%;
     font-weight: bold;
     font-style: italic;
+}
+article img {
+    float: left;
+    margin-right: 1em;
+    margin-bottom: 1em;
 }
 header h1 {
     color: blue;
