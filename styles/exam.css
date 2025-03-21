@@ -54,6 +54,8 @@ header h2 {
 aside {
     width: 20%;
     position: fixed;
+    float: right;
+    padding: 1em;
 }
 aside ol {
     list-style-type: upper-roman;
