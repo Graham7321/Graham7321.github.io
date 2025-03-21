@@ -1,4 +1,8 @@
-#nav_menu {margin-bottom: 1em; }
+#nav_menu {
+    margin-bottom: 1em; 
+    border-bottom: 10px solid blue;
+    padding-bottom: 5px;
+}
 #nav_menu ul {list-style-type: none;}
 #nav_menu ul li {
     float: left;
