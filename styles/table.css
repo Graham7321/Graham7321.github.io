@@ -39,4 +39,8 @@ html, body {
     table.third {
         border-collapse: collapse;
     }
-    table.third thead 
+    table.third thead  {
+        border-top: 2px solid lightgreen; 
+        border-bottom: 2px solid lightgreen;
+    }
+
