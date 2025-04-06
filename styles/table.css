@@ -44,6 +44,10 @@ html, body {
         border-bottom: 2px solid red;
         background-color: lightgreen;
     }
+    table.third thead, table.third tbody {
+        padding: 0.7em;
+        vertical-align: middle;
+    }
     table.third tbody {
         border-bottom: 2px solid red;
     }
