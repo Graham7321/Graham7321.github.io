@@ -51,3 +51,6 @@ html, body {
     table.third tbody {
         border-bottom: 2px solid red;
     }
+    table.third thead th:first-child {
+        border-bottom: 2px solid red; 
+    }
