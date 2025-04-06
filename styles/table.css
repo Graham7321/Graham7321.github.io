@@ -40,7 +40,10 @@ html, body {
         border-collapse: collapse;
     }
     table.third thead  {
-        border-top: 2px solid lightgreen; 
-        border-bottom: 2px solid lightgreen;
+        border-top: 2px solid red; 
+        border-bottom: 2px solid red;
+        background-color: lightgreen;
     }
-
+    table.third tbody {
+        border-bottom: 2px solid red;
+    }
