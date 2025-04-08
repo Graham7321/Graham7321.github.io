@@ -48,7 +48,13 @@
         <fieldset>
             <legend>Membership Information</legend>
             <label for="membership">Membership Type:</label>
-            <input type="" name="membership" id="membership"><br>
+            <select id = "membership_type">
+                <optgroup>
+                    <option value = "junior">Junior</option>
+                    <option value = "regular">Regular</option>
+                    <option label = "charter">Charter</option>
+                </optgroup>
+            </select>
             <label for="date">Starting Date:</label>
             <input type="date" name="date" id="date" required
                 placeholder="mm/dd/yyyy" 
