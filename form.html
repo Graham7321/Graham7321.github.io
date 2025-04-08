@@ -58,29 +58,6 @@
             <input type="text" name="tickets" id="tickets"><br>
         </fieldset>
         <fieldset>
-            <legend>Member Information</legend>
-            <label for="first_name">First Name:</label>
-            <input type="text" name="first_name" id="first_name"
-                required autocomplete="on"><br>        
-            <label for="state">State:</label>
-            <input type="text" name="state" id="state" required 
-                maxlength="2" 
-                placeholder="2-character code"
-                autocomplete="on"><br>
-            <label for="zip">ZIP Code:</label>
-            <input type="text" name="zip" id="zip" required
-                placeholder="5 or 9 digits" 
-                pattern="^\d{5}(-\d{4})?$"
-                title="Either 5 or 9 digits"
-                autocomplete="on"><br>
-            <label for="phone">Phone Number:</label>
-            <input type="tel" name="phone" id="phone"
-                placeholder="999-999-9999" 
-                pattern="\d{3}[\-]\d{3}[\-]\d{4}" 
-                title="Must be 999-999-999 format"
-                autocomplete="on"><br>
-        </fieldset>
-        <fieldset>
             <legend>How Did You Hear About Us?</legend>
             <label for="search engine">Search engine</label>
             <input type="checkbox" name="search engine" id="search engine"><br>
@@ -91,6 +68,17 @@
             <label for = "friend or colleague">Friend or colleague</label>
             <input type = "checkbox" name = "friend or colleague" id = "friend or colleague">
             <br>
+        </fieldset>
+        <fieldset>
+            <legend>Comments</legend>
+            
+        </fieldset>
+        <fieldset>
+            <legend>Submit Your Membership</legend>
+            <label for = "submit">Submit</label>
+            <input type = "submit" name = "submit" id = "submit">
+            <label for = "reset">Reset Fields</label>
+            <input type = "reset" name = "reset" id = "reset">
         </fieldset>
     </form>
 </body>
