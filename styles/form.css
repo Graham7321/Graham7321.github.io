@@ -44,6 +44,6 @@ textarea {
     gap: 1em;
     margin: 20px;
 }
-.form-buttons input[type = "submit"], button[type="reset"] {
+.form-buttons button {
     padding: 0 20px;
 }
