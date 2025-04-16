@@ -43,5 +43,7 @@ textarea {
     justify-content: center;
     gap: 1em;
     margin: 1em;
+}
+.form-buttons input[type = "submit"], button[type="reset"] {
     padding: 1em;
 }
