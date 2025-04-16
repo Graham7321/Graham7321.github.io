@@ -42,8 +42,8 @@ textarea {
     display: flex;
     justify-content: center;
     gap: 1em;
-    margin: 1em;
+    margin: 20px;
 }
 .form-buttons input[type = "submit"], button[type="reset"] {
-    padding: 1em;
+    padding: 0 20px;
 }
